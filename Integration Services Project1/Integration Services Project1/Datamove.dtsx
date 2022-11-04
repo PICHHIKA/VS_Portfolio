@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="EDULT7T9T9C3"
   DTS:CreatorName="ID\31218664"
-  DTS:DTSID="{AB4F848E-3E2D-409F-B53F-9DBF2E79E42C}"
+  DTS:DTSID="{B403BA33-4ADA-4E57-837A-3DA54350203B}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.2000.170"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="Datamove"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{7B64F976-E278-461A-B485-AF2B9BAEFDA3}">
+  DTS:VersionBuild="4"
+  DTS:VersionGUID="{F305A43E-A52E-4603-B956-C8EB43A2F080}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
